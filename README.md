@@ -3,7 +3,8 @@ Preliminary analytics using information from Philippines Department of Health on
 
 <br><br>
 Initial Findings:
-<br> 1. 11% of cases come from "connected components" of two or more people. 
+<br> 1. Largest connected group (8 people) is a.) loosely connected and b.) spread across multiple hospitals in NCR and 10 days
+<br> 2. 10.75% of cases come from "connected components" of two or more people. 
 
 References:
 <br> 1. Article on how to source DOH Data: https://www.facebook.com/notes/wilson-chua/working-with-doh-covid-data/2868993263159446/
