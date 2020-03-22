@@ -25,14 +25,14 @@ def get_covid_ph(url = None):
     return df
 
 import re
-def extract_contact_cols(df, extract_col = 'travel_hx')
-""""
-Function returns updated dataframe with columns:
-contacts: complete code of contact [PHX]
-contacts_num: numeric code of contact [x]
+def extract_contact_cols(df, extract_col = 'travel_hx'):
+    """"
+    Function returns updated dataframe with columns:
+    contacts: complete code of contact [PHX]
+    contacts_num: numeric code of contact [x]
 
-default extract from column 'travel_hx'
-"""
+    default extract from column 'travel_hx'
+    """
     def get_contacts (s):
         try:
             return re.findall(r'\bPH\w+',s)
