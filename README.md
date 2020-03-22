@@ -1,5 +1,11 @@
 # ph-covid19-analytics
-Preliminary analytics using information from Philippines Department of Health on COVID-19 cases in the country. Initial direction is to use network analysis to a.) identify and isolate large spreading networks and b.) identify potential areas to run preventive measures
+Network Analysis on NCOV cases in the Philippines. Goal is to use analytics to a.) identify and isolate large networks of cases and b.) identify action points and preventive measures to flatten the curve
+
+<br><br>
+Contents:
+<br>1. Query official data source (returns JSON), transform JSON into Pandas DataFrame and do initial data cleaning to mine relevant features.
+<br>2. Create a graph which maps all direct connections of each case and use depth first search to identify large networks
+<br>3. EDA to identify action points with the goal of flattening the curve of cases in networks.
 
 <br><br>
 Initial Findings:
