@@ -3,8 +3,6 @@ Initial EDA and Network Analysis on PH COVID-19 cases in the Philippines from of
 <br>
 <br>
 ## Future development and source code maintained at this [repo](https://github.com/enzoampil/phcovid).
-
-
 <br>
 <br>
 ## References:
