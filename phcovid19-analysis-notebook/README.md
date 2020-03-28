@@ -2,7 +2,7 @@
 Initial EDA and Network Analysis on PH COVID-19 cases in the Philippines from official Department of Health source.
 <br>
 <br>
-##Future development and source code maintained at this [repo](https://github.com/enzoampil/phcovid).
+## Future development and source code maintained at this [repo](https://github.com/enzoampil/phcovid).
 
 
 <br>
